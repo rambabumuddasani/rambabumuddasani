@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rambabumuddasani
 - 👀 I’m interested in coding and cloud.
-- 🌱 I’m currently learning AWS cloud tools. 
+- 🌱 Good working exposure in AZURE , AWS and PCF. 
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 Reach me @ rambabu.muddasani@gmail.com
 
